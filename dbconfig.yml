@@ -1,0 +1,4 @@
+development:
+    dialect: mysql
+    datasource: root:maulapor@tcp(localhost:3306)/maulapor?parseTime=true
+    dir: mysql
